@@ -1,0 +1,2677 @@
+{
+  "Biology": [
+    {
+      "difficulty": "easy",
+      "question": "What is the powerhouse of the cell?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Endoplasmic reticulum"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What molecule carries genetic information?",
+      "options": [
+        "Protein",
+        "Lipid",
+        "DNA",
+        "Glucose"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which blood cells fight infection?",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What organ filters blood?",
+      "options": [
+        "Heart",
+        "Kidney",
+        "Liver",
+        "Lung"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What gas do plants release?",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "Where does photosynthesis occur?",
+      "options": [
+        "Mitochondria",
+        "Chloroplast",
+        "Ribosome",
+        "Nucleus"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the basic unit of heredity?",
+      "options": [
+        "Gene",
+        "Chromosome",
+        "Protein",
+        "Enzyme"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which blood type is universal donor?",
+      "options": [
+        "O+",
+        "AB+",
+        "O−",
+        "A−"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the name of the sugar in RNA?",
+      "options": [
+        "Glucose",
+        "Deoxyribose",
+        "Ribose",
+        "Fructose"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which hormone lowers blood sugar?",
+      "options": [
+        "Glucagon",
+        "Thyroxine",
+        "Insulin",
+        "Adrenaline"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "What organ produces bile?",
+      "options": [
+        "Stomach",
+        "Liver",
+        "Pancreas",
+        "Gallbladder"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the study of fungi called?",
+      "options": [
+        "Bacteriology",
+        "Mycology",
+        "Virology",
+        "Protozoology"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which part of the brain controls balance?",
+      "options": [
+        "Cerebrum",
+        "Brainstem",
+        "Cerebellum",
+        "Hypothalamus"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "What process converts RNA back into DNA?",
+      "options": [
+        "Transcription",
+        "Reverse transcription",
+        "Translation",
+        "Replication"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which cycle is involved in nitrogen fixation?",
+      "options": [
+        "Calvin cycle",
+        "Krebs cycle",
+        "Nitrogen cycle",
+        "Electron transport chain"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chemistry": [
+    {
+      "difficulty": "easy",
+      "question": "What is H₂O?",
+      "options": [
+        "Oxygen",
+        "Salt",
+        "Water",
+        "Hydrogen peroxide"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is NaCl?",
+      "options": [
+        "Sugar",
+        "Water",
+        "Salt",
+        "Baking soda"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "pH of 7 is:",
+      "options": [
+        "Acidic",
+        "Neutral",
+        "Basic",
+        "Depends"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the chemical symbol for gold?",
+      "options": [
+        "Ag",
+        "Au",
+        "Gd",
+        "Go"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the main gas in air?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Nitrogen",
+        "Carbon dioxide"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is CO₂?",
+      "options": [
+        "Carbon monoxide",
+        "Carbon dioxide",
+        "Oxygen",
+        "Sulfur dioxide"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the atomic number of carbon?",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "14"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which is an alkali metal?",
+      "options": [
+        "Calcium",
+        "Sodium",
+        "Iron",
+        "Copper"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Empirical formula of glucose?",
+      "options": [
+        "C₆H₁₂O₆",
+        "CH₂O",
+        "C₂H₆O",
+        "C₃H₆O₃"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is Avogadro's number approx.?",
+      "options": [
+        "6.02×10²³",
+        "3.14×10²",
+        "9.81",
+        "1.6×10⁻¹⁹"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "What bond involves sharing electrons?",
+      "options": [
+        "Ionic bond",
+        "Covalent bond",
+        "Metallic bond",
+        "Hydrogen bond"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is Hund’s rule about?",
+      "options": [
+        "Electron spin pairing",
+        "Electron placement in orbitals",
+        "Ionization energy",
+        "Electronegativity"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What type of reaction is 2H₂ + O₂ → 2H₂O?",
+      "options": [
+        "Decomposition",
+        "Combustion",
+        "Synthesis",
+        "Redox"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the pH of a 0.01 M HCl solution?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "7"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which orbital has l = 2?",
+      "options": [
+        "s",
+        "p",
+        "d",
+        "f"
+      ],
+      "answer": 2
+    }
+  ],
+  "Physics": [
+    {
+      "difficulty": "easy",
+      "question": "What is the acceleration due to gravity on Earth?",
+      "options": [
+        "9.8 m/s²",
+        "1 m/s²",
+        "100 m/s²",
+        "0"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "Light speed in vacuum?",
+      "options": [
+        "3×10⁸ m/s",
+        "3×10⁶ m/s",
+        "300 m/s",
+        "1×10⁵ m/s"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "Unit of force?",
+      "options": [
+        "Watt",
+        "Newton",
+        "Pascal",
+        "Joule"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "Unit of energy?",
+      "options": [
+        "Pascal",
+        "Newton",
+        "Joule",
+        "Watt"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What does ‘v’ commonly denote in speed formulas?",
+      "options": [
+        "Velocity",
+        "Volume",
+        "Voltage",
+        "Viscosity"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is inertia?",
+      "options": [
+        "Force",
+        "Mass",
+        "Resistance to change in motion",
+        "Energy"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which law states F = ma?",
+      "options": [
+        "Newton’s 1st",
+        "Newton’s 2nd",
+        "Newton’s 3rd",
+        "Hooke’s"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Frequency × wavelength =?",
+      "options": [
+        "Energy",
+        "Speed of light",
+        "Momentum",
+        "Force"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is density formula?",
+      "options": [
+        "mass/volume",
+        "mass×volume",
+        "mass + volume",
+        "volume/mass"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the SI unit of charge?",
+      "options": [
+        "Volt",
+        "Coulomb",
+        "Ampere",
+        "Ohm"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is Hooke's law formula?",
+      "options": [
+        "F = kx",
+        "F = ma",
+        "E = mc²",
+        "V = IR"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "What particle mediates electromagnetic force?",
+      "options": [
+        "Photon",
+        "Gluon",
+        "Neutrino",
+        "Proton"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the principle of superposition?",
+      "options": [
+        "Fields cancel",
+        "Waves add linearly",
+        "Energy is conserved",
+        "Mass-energy equivalence"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What does E = mc² represent?",
+      "options": [
+        "Momentum relation",
+        "Mass–energy equivalence",
+        "Force formula",
+        "Power equation"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which effect describes light bending?",
+      "options": [
+        "Photoelectric effect",
+        "Doppler effect",
+        "Refraction",
+        "Compton effect"
+      ],
+      "answer": 2
+    }
+  ],
+  "Science": [
+    {
+      "difficulty": "easy",
+      "question": "What is H₂O commonly called?",
+      "options": [
+        "Salt",
+        "Water",
+        "Acid",
+        "Gas"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "The study of matter is called?",
+      "options": [
+        "Biology",
+        "Physics",
+        "Chemistry",
+        "Science"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "easy",
+      "question": "Stars are made of?",
+      "options": [
+        "Ice",
+        "Gas",
+        "Rock",
+        "Metal"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What tool measures temperature?",
+      "options": [
+        "Barometer",
+        "Thermometer",
+        "Odometer",
+        "Anemometer"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "Earth is a _____.",
+      "options": [
+        "Star",
+        "Planet",
+        "Galaxy",
+        "Moon"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "Sound travels through?",
+      "options": [
+        "Vacuum only",
+        "Air, liquid, solid",
+        "Only solid",
+        "Only liquid"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What causes tides?",
+      "options": [
+        "Sun",
+        "Wind",
+        "Moon",
+        "Earth's rotation"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is evaporation?",
+      "options": [
+        "Liquid→solid",
+        "Liquid→gas",
+        "Gas→liquid",
+        "Solid→liquid"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which planet is red?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Mercury"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What makes rainbows?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Absorption"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which science studies rocks?",
+      "options": [
+        "Biology",
+        "Geology",
+        "Astronomy",
+        "Chemistry"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the Big Bang Theory about?",
+      "options": [
+        "Origin of life",
+        "Origin of universe",
+        "Gravity",
+        "Plate tectonics"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which particles make up the atom’s nucleus?",
+      "options": [
+        "Electrons & protons",
+        "Protons & neutrons",
+        "Neutrons & electrons",
+        "Protons only"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is quantum entanglement?",
+      "options": [
+        "Chemical bond",
+        "Light scattering",
+        "Linked particle states",
+        "Magnetic field"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "What does DNA stand for?",
+      "options": [
+        "Deoxyribose Nucleic Acid",
+        "Deoxyribonucleic Acid",
+        "Dioxyribonucleic Acid",
+        "Ribonucleic Acid"
+      ],
+      "answer": 1
+    }
+  ],
+  "FootBall": [
+    {
+      "difficulty": "easy",
+      "question": "How many players per soccer team on the field?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is it called when ball crosses goal line?",
+      "options": [
+        "Offside",
+        "Corner",
+        "Goal",
+        "Foul"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Soccer match duration?",
+      "options": [
+        "60 mins",
+        "90 mins",
+        "120 mins",
+        "45 mins"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "World Cup held every?",
+      "options": [
+        "2 yrs",
+        "4 yrs",
+        "5 yrs",
+        "3 yrs"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "Ball is put into play with?",
+      "options": [
+        "Goal kick",
+        "Drop ball",
+        "Kickoff",
+        "Throw-in"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Football is called ____ in the US?",
+      "options": [
+        "Soccer",
+        "Rugby",
+        "Cricket",
+        "Baseball"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "How many substitutions allowed (FIFA)?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "7"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Yellow + second yellow = ?",
+      "options": [
+        "Red card",
+        "No caution",
+        "Free kick",
+        "Goal kick"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who won 2018 FIFA World Cup?",
+      "options": [
+        "Brazil",
+        "Germany",
+        "France",
+        "Argentina"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which position uses gloves?",
+      "options": [
+        "Defender",
+        "Midfielder",
+        "Goalkeeper",
+        "Striker"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the offside rule about?",
+      "options": [
+        "Ball crossing line",
+        "Foul play",
+        "Players nearer to goal line than ball",
+        "Corner kick"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which country won first World Cup (1930)?",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Uruguay",
+        "Italy"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who holds most Champions League goals?",
+      "options": [
+        "Messi",
+        "Ronaldo",
+        "Raul",
+        "Benzema"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Maximum matches a team can play in WC finals?",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is VAR used for?",
+      "options": [
+        "Video replays",
+        "Goal measurement",
+        "Sound",
+        "Substitutions"
+      ],
+      "answer": 0
+    }
+  ],
+  "Hollywood": [
+    {
+      "difficulty": "easy",
+      "question": "Who played Jack in Titanic?",
+      "options": [
+        "Brad Pitt",
+        "Leonardo DiCaprio",
+        "Matt Damon",
+        "Tom Cruise"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is Hollywood?",
+      "options": [
+        "Music studio",
+        "Neighborhood in LA",
+        "Theme park",
+        "Film awards"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who sings in La La Land?",
+      "options": [
+        "Ryan Gosling",
+        "Emma Stone",
+        "Anne Hathaway",
+        "Scarlett Johansson"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which movie features superheroes?",
+      "options": [
+        "The Avengers",
+        "Inception",
+        "Toy Story",
+        "La La Land"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is known as 'King of Hollywood'?",
+      "options": [
+        "Clark Gable",
+        "Tom Hanks",
+        "Johnny Depp",
+        "Robert Downey Jr."
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "What award is Oscar for?",
+      "options": [
+        "Sports",
+        "Science",
+        "Acting",
+        "Politics"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which director made 'Inception'?",
+      "options": [
+        "Steven Spielberg",
+        "Martin Scorsese",
+        "Christopher Nolan",
+        "Quentin Tarantino"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "What year was 'The Godfather' released?",
+      "options": [
+        "1972",
+        "1980",
+        "1965",
+        "1990"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who starred in ‘Iron Man’?",
+      "options": [
+        "Chris Evans",
+        "Robert Downey Jr.",
+        "Chris Hemsworth",
+        "Mark Ruffalo"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which movie won Best Picture 2020?",
+      "options": [
+        "1917",
+        "Parasite",
+        "Joker",
+        "Once Upon a Time…in Hollywood"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who directed ‘Pulp Fiction’?",
+      "options": [
+        "James Cameron",
+        "Quentin Tarantino",
+        "Peter Jackson",
+        "Ridley Scott"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who composed the score for ‘Jaws’?",
+      "options": [
+        "John Williams",
+        "Hans Zimmer",
+        "Ennio Morricone",
+        "James Horner"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which film originated the MCU?",
+      "options": [
+        "Iron Man",
+        "The Incredible Hulk",
+        "Thor",
+        "Captain America"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which actress won Best Actress Oscar for 'The Hurt Locker'?",
+      "options": [
+        "Natalie Portman",
+        "Forest Whitaker",
+        "Sandra Bullock",
+        "none (it won for Best Actor)"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which was first movie in Star Wars saga?",
+      "options": [
+        "A New Hope",
+        "The Phantom Menace",
+        "Empire Strikes Back",
+        "Return of the Jedi"
+      ],
+      "answer": 0
+    }
+  ],
+  "Bollywood": [
+    {
+      "difficulty": "easy",
+      "question": "Which city is Bollywood based in?",
+      "options": [
+        "Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What language are Bollywood films primarily in?",
+      "options": [
+        "English",
+        "Hindi",
+        "Tamil",
+        "Marathi"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who is known as 'King Khan'?",
+      "options": [
+        "Salman Khan",
+        "Shah Rukh Khan",
+        "Aamir Khan",
+        "Saif Ali Khan"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is a popular Bollywood dance form?",
+      "options": [
+        "Kathak",
+        "Ballet",
+        "Tango",
+        "Flamenco"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which duo acted in 'Dilwale Dulhania Le Jayenge'?",
+      "options": [
+        "Salman–Katrina",
+        "Shah Rukh–Kajol",
+        "Aamir–Rani",
+        "Hrithik–Deepika"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What award is Filmfare?",
+      "options": [
+        "Sports",
+        "Film",
+        "Music",
+        "Science"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who directed 'Sholay'?",
+      "options": [
+        "Ramesh Sippy",
+        "Yash Chopra",
+        "Karan Johar",
+        "Mani Ratnam"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which film won 2020 National Award Best Feature?",
+      "options": [
+        "Andhadhun",
+        "Raazi",
+        "Gully Boy",
+        "Tanhaji"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who played Mother India in 1957 film?",
+      "options": [
+        "Nargis",
+        "Meena Kumari",
+        "Madhubala",
+        "Waheeda Rehman"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which composer duo is famous in Bollywood?",
+      "options": [
+        "Shankar–Ehsaan",
+        "Jatin–Lalit",
+        "Laxmikant–Pyarelal",
+        "Kalyan–Anand"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which actor is in '3 Idiots'?",
+      "options": [
+        "Aamir Khan",
+        "Shah Rukh Khan",
+        "Ranbir Kapoor",
+        "Akshay Kumar"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who directed 'Lagaan'?",
+      "options": [
+        "Ashutosh Gowariker",
+        "Aditya Chopra",
+        "Sanjay Leela Bhansali",
+        "Karan Johar"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which film won the first International Film Award in 1954?",
+      "options": [
+        "Mother India",
+        "Pather Panchali",
+        "Guide",
+        "Mughal-e-Azam"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which actress starred in both 'Devdas' (2002) and 'Veer-Zaara'?",
+      "options": [
+        "Aishwarya Rai",
+        "Rani Mukerji",
+        "Madhuri Dixit",
+        "Karisma Kapoor"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who composed the music for 'Dil Se'?",
+      "options": [
+        "A.R. Rahman",
+        "Jatin–Lalit",
+        "Anu Malik",
+        "Vishal–Shekhar"
+      ],
+      "answer": 0
+    }
+  ],
+  "Fashion": [
+    {
+      "difficulty": "easy",
+      "question": "What item is Chanel known for?",
+      "options": [
+        "Trench Coat",
+        "Little Black Dress",
+        "Jeans",
+        "Sneakers"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What does 'LBD' stand for?",
+      "options": [
+        "Long Black Dress",
+        "Little Black Dress",
+        "Leather Bag Design",
+        "Lovely Big Dress"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What accessory do you wear on your wrist?",
+      "options": [
+        "Necklace",
+        "Bracelet",
+        "Earrings",
+        "Belt"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What footwear is formal?",
+      "options": [
+        "Flip‑flops",
+        "Dress shoes",
+        "Slippers",
+        "Sandals"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What do you call men's formal suit?",
+      "options": [
+        "Tuxedo",
+        "Jeans",
+        "T‑shirt",
+        "Sweatshirt"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "What fabric is silk made from?",
+      "options": [
+        "Cotton",
+        "Wool",
+        "Silkworm cocoons",
+        "Linen"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which designer created the 'New Look' in 1947?",
+      "options": [
+        "Christian Dior",
+        "Coco Chanel",
+        "Yves Saint Laurent",
+        "Paco Rabanne"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "What prints feature interlocking 'G'?",
+      "options": [
+        "Prada",
+        "Gucci",
+        "Fendi",
+        "Versace"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What stitch is used in knitwear?",
+      "options": [
+        "Satin stitch",
+        "Chain stitch",
+        "Knitting stitch",
+        "Cross stitch"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "What color is 'beige'?",
+      "options": [
+        "Blue",
+        "Light brown",
+        "Bright pink",
+        "Black"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is sustainable fashion about?",
+      "options": [
+        "Fast trends",
+        "Eco‑friendly production",
+        "High price",
+        "Celebrity style"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which fashion capital is Milan in?",
+      "options": [
+        "Italy",
+        "France",
+        "USA",
+        "UK"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who began the punk look in 1970s?",
+      "options": [
+        "Vivienne Westwood",
+        "Yves Saint Laurent",
+        "Coco Chanel",
+        "Donatella Versace"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is haute couture?",
+      "options": [
+        "Mass‑produced",
+        "High fashion custom sewing",
+        "Streetwear",
+        "Sportswear"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which fabric is organic?",
+      "options": [
+        "Polyester",
+        "Cotton",
+        "Organic cotton",
+        "Nylon"
+      ],
+      "answer": 2
+    }
+  ],
+  "Music": [
+    {
+      "difficulty": "easy",
+      "question": "How many strings does a standard guitar have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is a piano's lowest note called?",
+      "options": [
+        "Middle C",
+        "A0",
+        "C8",
+        "G9"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What instrument has keys and pedals?",
+      "options": [
+        "Violin",
+        "Trumpet",
+        "Piano",
+        "Drums"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What do you call a female singer?",
+      "options": [
+        "Composer",
+        "Conductor",
+        "Vocalist",
+        "Soprano"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which tempo is fastest?",
+      "options": [
+        "Adagio",
+        "Allegro",
+        "Presto",
+        "Largo"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which is a percussion instrument?",
+      "options": [
+        "Flute",
+        "Cello",
+        "Drums",
+        "Oboe"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who composed the 'Four Seasons'?",
+      "options": [
+        "Mozart",
+        "Vivaldi",
+        "Bach",
+        "Handel"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What clef is used for violin music?",
+      "options": [
+        "Bass clef",
+        "Treble clef",
+        "Alto clef",
+        "Tenor clef"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What does BPM stand for?",
+      "options": [
+        "Beats Per Minute",
+        "Bars Per Measure",
+        "Beats Per Measure",
+        "Bars Per Minute"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is a 4/4 time signature called?",
+      "options": [
+        "Common time",
+        "Waltz time",
+        "Cut time",
+        "Triple time"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who is the 'King of Pop'?",
+      "options": [
+        "Prince",
+        "Elvis Presley",
+        "Michael Jackson",
+        "Justin Bieber"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the enharmonic of F♯?",
+      "options": [
+        "G♭",
+        "E♯",
+        "C♯",
+        "D♭"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who wrote 'Symphony No.5 in C minor'?",
+      "options": [
+        "Mozart",
+        "Beethoven",
+        "Brahms",
+        "Tchaikovsky"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What scale has no sharps or flats?",
+      "options": [
+        "C major",
+        "G major",
+        "F major",
+        "D minor"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "What instrument uses a bow?",
+      "options": [
+        "Cello",
+        "Clarinet",
+        "Trumpet",
+        "Drum kit"
+      ],
+      "answer": 0
+    }
+  ],
+  "Art": [
+    {
+      "difficulty": "easy",
+      "question": "What primary color is blue?",
+      "options": [
+        "Secondary",
+        "Primary",
+        "Tertiary",
+        "Neutral"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which tool holds paint?",
+      "options": [
+        "Palette",
+        "Brush",
+        "Easel",
+        "Canvas"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is a sculpture made of stone called?",
+      "options": [
+        "Mosaic",
+        "Relief",
+        "Statue",
+        "Sketch"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who painted Mona Lisa?",
+      "options": [
+        "Van Gogh",
+        "Picasso",
+        "Leonardo da Vinci",
+        "Rembrandt"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is graffiti?",
+      "options": [
+        "Sculpture",
+        "Street art",
+        "Portrait",
+        "Print"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What surface do you paint on?",
+      "options": [
+        "Canvas",
+        "Paper",
+        "Wood",
+        "All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "medium",
+      "question": "What style did Picasso found?",
+      "options": [
+        "Baroque",
+        "Cubism",
+        "Impressionism",
+        "Surrealism"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which era is Renaissance art?",
+      "options": [
+        "14th–17th cen",
+        "18th–19th cen",
+        "10th–12th cen",
+        "19th–20th cen"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is Pointillism?",
+      "options": [
+        "Blending color",
+        "Dots of color",
+        "Large strokes",
+        "Monochrome"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is chiaroscuro?",
+      "options": [
+        "Light and dark contrast",
+        "Blurry edges",
+        "Bright palette",
+        "Abstract"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Where is Louvre located?",
+      "options": [
+        "Paris",
+        "London",
+        "Rome",
+        "New York"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which painter cut his ear?",
+      "options": [
+        "Van Gogh",
+        "Monet",
+        "Dali",
+        "Kahlo"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which artist painted 'The Persistence of Memory'?",
+      "options": [
+        "Magritte",
+        "Dali",
+        "Warhol",
+        "Picasso"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What art movement is Monet associated with?",
+      "options": [
+        "Cubism",
+        "Impressionism",
+        "Surrealism",
+        "Renaissance"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who sculpted 'David' (Renaissance)?",
+      "options": [
+        "Donatello",
+        "Michelangelo",
+        "Bernini",
+        "Rodin"
+      ],
+      "answer": 1
+    }
+  ],
+  "Cricket": [
+    {
+      "difficulty": "easy",
+      "question": "How many players in a cricket team?",
+      "options": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is a half-century?",
+      "options": [
+        "25 runs",
+        "50 runs",
+        "100 runs",
+        "75 runs"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is dismissal by ball hitting stumps?",
+      "options": [
+        "LBW",
+        "Run out",
+        "Bowled",
+        "Caught"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "How many overs in T20 match per innings?",
+      "options": [
+        "20",
+        "50",
+        "10",
+        "25"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the cricket field umpire's signal for six?",
+      "options": [
+        "Arms crossed",
+        "One arm up",
+        "Both arms up",
+        "Hands on waist"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the red-ball format?",
+      "options": [
+        "ODI",
+        "Test",
+        "T20",
+        "The Hundred"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is LBW stand for?",
+      "options": [
+        "Leg Before Wicket",
+        "Left Back Wicket",
+        "Long Ball Wicket",
+        "Leg Behind Wicket"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who has taken most Test wickets?",
+      "options": [
+        "Shane Warne",
+        "Muttiah Muralitharan",
+        "Anil Kumble",
+        "James Anderson"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "How many balls in an over?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is Duckworth–Lewis law used for?",
+      "options": [
+        "Batting order",
+        "Weather adjustments",
+        "Player stats",
+        "Umpire decisions"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which country won 2019 ICC World Cup?",
+      "options": [
+        "India",
+        "England",
+        "Australia",
+        "New Zealand"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What does 'hat-trick' mean in cricket?",
+      "options": [
+        "Three wickets in three balls",
+        "Three runs",
+        "Three catches",
+        "Three overs"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who scored the first double century in ODIs?",
+      "options": [
+        "Virender Sehwag",
+        "Sachin Tendulkar",
+        "Rohit Sharma",
+        "Chris Gayle"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "What’s the maximum overs in Test cricket day's play?",
+      "options": [
+        "90",
+        "100",
+        "120",
+        "60"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who captained India to 1983 World Cup?",
+      "options": [
+        "Kapil Dev",
+        "Sunil Gavaskar",
+        "Mohammad Azharuddin",
+        "Rahul Dravid"
+      ],
+      "answer": 0
+    }
+  ],
+  "Geography": [
+    {
+      "difficulty": "easy",
+      "question": "What is the largest ocean on Earth?",
+      "options": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "easy",
+      "question": "Capital of France?",
+      "options": [
+        "Paris",
+        "Rome",
+        "Berlin",
+        "Madrid"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which continent is Australia in?",
+      "options": [
+        "Europe",
+        "Asia",
+        "Australia",
+        "Africa"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which country has Eiffel Tower?",
+      "options": [
+        "UK",
+        "Germany",
+        "France",
+        "Italy"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which is the longest river?",
+      "options": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "Mount Everest is in which country?",
+      "options": [
+        "India",
+        "Nepal",
+        "China",
+        "Bhutan"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the capital of Australia?",
+      "options": [
+        "Sydney",
+        "Melbourne",
+        "Canberra",
+        "Brisbane"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which desert is largest?",
+      "options": [
+        "Sahara",
+        "Gobi",
+        "Kalahari",
+        "Mojave"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which US state is the Grand Canyon in?",
+      "options": [
+        "Colorado",
+        "Nevada",
+        "Arizona",
+        "Utah"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which sea is between Africa and Europe?",
+      "options": [
+        "Red Sea",
+        "Mediterranean",
+        "Caribbean",
+        "Baltic"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the smallest country?",
+      "options": [
+        "Monaco",
+        "Nauru",
+        "Vatican City",
+        "San Marino"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which country has the most time zones?",
+      "options": [
+        "USA",
+        "Russia",
+        "China",
+        "France"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the world's deepest lake?",
+      "options": [
+        "Lake Baikal",
+        "Lake Tanganyika",
+        "Lake Superior",
+        "Caspian Sea"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which country straddles two continents?",
+      "options": [
+        "Egypt",
+        "Brazil",
+        "Japan",
+        "Australia"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the capital of Kazakhstan?",
+      "options": [
+        "Almaty",
+        "Astana",
+        "Nur-Sultan",
+        "Bishkek"
+      ],
+      "answer": 1
+    }
+  ],
+  "GeneralKnowledge": [
+    {
+      "difficulty": "easy",
+      "question": "How many continents are there?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What color is the sky?",
+      "options": [
+        "Green",
+        "Blue",
+        "Red",
+        "Yellow"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What do bees make?",
+      "options": [
+        "Milk",
+        "Wax",
+        "Honey",
+        "Silk"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What shape has three sides?",
+      "options": [
+        "Square",
+        "Triangle",
+        "Circle",
+        "Pentagon"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is 2+2?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which day comes after Monday?",
+      "options": [
+        "Sunday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which planet is known as the Red Planet?",
+      "options": [
+        "Venus",
+        "Mars",
+        "Jupiter",
+        "Saturn"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the boiling point of water?",
+      "options": [
+        "90 °C",
+        "100 °C",
+        "110 °C",
+        "120 °C"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who invented the telephone?",
+      "options": [
+        " Edison",
+        "Bell",
+        "Tesla",
+        "Einstein"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which is the tallest animal?",
+      "options": [
+        "Elephant",
+        "Giraffe",
+        "Lion",
+        "Horse"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What’s the capital of Japan?",
+      "options": [
+        "Kyoto",
+        "Tokyo",
+        "Osaka",
+        "Beijing"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the square root of 144?",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which metal has chemical symbol Fe?",
+      "options": [
+        "Lead",
+        "Iron",
+        "Silver",
+        "Gold"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": [
+        "Shakespeare",
+        "Dickens",
+        "Austen",
+        "Tolstoy"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the capital of Canada?",
+      "options": [
+        "Toronto",
+        "Vancouver",
+        "Ottawa",
+        "Montreal"
+      ],
+      "answer": 2
+    }
+
+  ],
+  "Medical": [
+    {
+      "difficulty": "easy",
+      "question": "What is the normal human body temperature in Celsius?",
+      "options": [
+        "35°C",
+        "37°C",
+        "39°C",
+        "40°C"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "How many chambers does a human heart have?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the largest organ in the human body?",
+      "options": [
+        "Heart",
+        "Brain",
+        "Liver",
+        "Skin"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which blood type is known as the universal donor?",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "easy",
+      "question": "What does CPR stand for?",
+      "options": [
+        "Cardiac Pulmonary Revival",
+        "Cardiopulmonary Resuscitation",
+        "Cardiac Pressure Relief",
+        "Chest Pressure Restoration"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "How many bones are there approximately in an adult human body?",
+      "options": [
+        "156",
+        "206",
+        "256",
+        "306"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the medical term for high blood pressure?",
+      "options": [
+        "Hypotension",
+        "Hypertension",
+        "Tachycardia",
+        "Bradycardia"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which hormone regulates blood sugar levels?",
+      "options": [
+        "Adrenaline",
+        "Insulin",
+        "Cortisol",
+        "Thyroxine"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the medical term for inflammation of the appendix?",
+      "options": [
+        "Gastritis",
+        "Hepatitis",
+        "Appendicitis",
+        "Colitis"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which part of the brain controls balance and coordination?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla",
+        "Hypothalamus"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the term for a cancerous tumor?",
+      "options": [
+        "Benign",
+        "Malignant",
+        "Cystic",
+        "Fibrous"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the most common cause of chronic kidney disease?",
+      "options": [
+        "Hypertension",
+        "Diabetes",
+        "Polycystic kidney disease",
+        "Autoimmune disorders"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which syndrome is characterized by the triad of dementia, gait disturbance, and urinary incontinence?",
+      "options": [
+        "Alzheimer's disease",
+        "Normal pressure hydrocephalus",
+        "Parkinson's disease",
+        "Huntington's disease"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the mechanism of action of ACE inhibitors?",
+      "options": [
+        "Block calcium channels",
+        "Inhibit angiotensin-converting enzyme",
+        "Block beta receptors",
+        "Inhibit sodium channels"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which genetic disorder is caused by a mutation in the CFTR gene?",
+      "options": [
+        "Sickle cell anemia",
+        "Cystic fibrosis",
+        "Huntington's disease",
+        "Hemophilia"
+      ],
+      "answer": 1
+    }
+  ],
+  "History": [
+    {
+      "difficulty": "easy",
+      "question": "Who was the first President of the United States?",
+      "options": [
+        "Thomas Jefferson",
+        "George Washington",
+        "John Adams",
+        "Benjamin Franklin"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "In which year did World War II end?",
+      "options": [
+        "1944",
+        "1945",
+        "1946",
+        "1947"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which ancient wonder of the world was located in Egypt?",
+      "options": [
+        "Hanging Gardens",
+        "Colossus of Rhodes",
+        "Great Pyramid of Giza",
+        "Lighthouse of Alexandria"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Who was the famous Egyptian queen who ruled alongside Julius Caesar and Mark Antony?",
+      "options": [
+        "Nefertiti",
+        "Hatshepsut",
+        "Cleopatra",
+        "Ankhesenamun"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which wall was built to separate East and West Berlin?",
+      "options": [
+        "Great Wall",
+        "Berlin Wall",
+        "Hadrian's Wall",
+        "Wall of China"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "In which year did the Titanic sink?",
+      "options": [
+        "1910",
+        "1911",
+        "1912",
+        "1913"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which empire was ruled by Genghis Khan?",
+      "options": [
+        "Ottoman Empire",
+        "Mongol Empire",
+        "Byzantine Empire",
+        "Persian Empire"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "The Treaty of Versailles ended which war?",
+      "options": [
+        "World War II",
+        "World War I",
+        "Franco-Prussian War",
+        "Napoleonic Wars"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which revolution began in 1789?",
+      "options": [
+        "American Revolution",
+        "Russian Revolution",
+        "French Revolution",
+        "Industrial Revolution"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Who was the leader of the Soviet Union during World War II?",
+      "options": [
+        "Lenin",
+        "Stalin",
+        "Khrushchev",
+        "Brezhnev"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which ancient civilization built Machu Picchu?",
+      "options": [
+        "Aztec",
+        "Maya",
+        "Inca",
+        "Olmec"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "hard",
+      "question": "The Peace of Westphalia in 1648 ended which major European conflict?",
+      "options": [
+        "Hundred Years' War",
+        "Thirty Years' War",
+        "War of Spanish Succession",
+        "Seven Years' War"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which Byzantine Emperor is known for his legal code that influenced modern law?",
+      "options": [
+        "Constantine I",
+        "Justinian I",
+        "Theodosius I",
+        "Basil II"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "The Defenestration of Prague in 1618 was a key event that sparked which war?",
+      "options": [
+        "War of Austrian Succession",
+        "Thirty Years' War",
+        "Seven Years' War",
+        "War of Spanish Succession"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which Chinese dynasty implemented the Mandate of Heaven concept?",
+      "options": [
+        "Shang Dynasty",
+        "Zhou Dynasty",
+        "Qin Dynasty",
+        "Han Dynasty"
+      ],
+      "answer": 1
+    }
+  ],
+  "Language": [
+    {
+      "difficulty": "easy",
+      "question": "What is the most widely spoken language in the world?",
+      "options": [
+        "English",
+        "Spanish",
+        "Mandarin Chinese",
+        "Hindi"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which language uses the Cyrillic alphabet?",
+      "options": [
+        "Greek",
+        "Russian",
+        "Arabic",
+        "Hebrew"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "What does 'Bonjour' mean in English?",
+      "options": [
+        "Good evening",
+        "Good morning",
+        "Hello/Good day",
+        "Goodbye"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "Which language family does English belong to?",
+      "options": [
+        "Romance",
+        "Slavic",
+        "Germanic",
+        "Celtic"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "easy",
+      "question": "What is the official language of Brazil?",
+      "options": [
+        "Spanish",
+        "Portuguese",
+        "French",
+        "Italian"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "easy",
+      "question": "How do you say 'thank you' in Spanish?",
+      "options": [
+        "Por favor",
+        "De nada",
+        "Gracias",
+        "Hola"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which language is known for having no word for 'yes' or 'no'?",
+      "options": [
+        "Irish Gaelic",
+        "Welsh",
+        "Scottish Gaelic",
+        "Breton"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the term for words that sound the same but have different meanings?",
+      "options": [
+        "Synonyms",
+        "Antonyms",
+        "Homonyms",
+        "Acronyms"
+      ],
+      "answer": 2
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which writing system is used for Japanese?",
+      "options": [
+        "Only Hiragana",
+        "Only Katakana",
+        "Only Kanji",
+        "Hiragana, Katakana, and Kanji"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "medium",
+      "question": "What is the study of word origins called?",
+      "options": [
+        "Phonetics",
+        "Etymology",
+        "Morphology",
+        "Syntax"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "medium",
+      "question": "Which language has the most native speakers in Europe?",
+      "options": [
+        "English",
+        "French",
+        "German",
+        "Russian"
+      ],
+      "answer": 3
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the phenomenon called when a language borrows words from another language?",
+      "options": [
+        "Lexical borrowing",
+        "Code-switching",
+        "Language convergence",
+        "Pidginization"
+      ],
+      "answer": 0
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which linguistic concept describes the idea that language shapes thought?",
+      "options": [
+        "Chomsky's Universal Grammar",
+        "Sapir-Whorf Hypothesis",
+        "Grice's Maxims",
+        "Austin's Speech Acts"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "What is the term for the smallest unit of sound that can distinguish meaning in a language?",
+      "options": [
+        "Morpheme",
+        "Phoneme",
+        "Grapheme",
+        "Lexeme"
+      ],
+      "answer": 1
+    },
+    {
+      "difficulty": "hard",
+      "question": "Which language family has the most languages?",
+      "options": [
+        "Indo-European",
+        "Sino-Tibetan",
+        "Niger-Congo",
+        "Austronesian"
+      ],
+      "answer": 2
+    }
+  ]
+
+
+}
