@@ -1,1 +1,1 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"quizapp-11478","appId":"1:291731181987:android:9474e5f6661eda5d200a16","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"quizapp-11478","configurations":{"android":"1:291731181987:android:9474e5f6661eda5d200a16","ios":"1:291731181987:ios:a7fd1fec650e00eb200a16","macos":"1:291731181987:ios:a7fd1fec650e00eb200a16","windows":"1:291731181987:web:50057d3c5b35ac6e200a16"}}}}}}
+#your firebase file here
